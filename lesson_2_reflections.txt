@@ -7,4 +7,4 @@ commit to repo from working in logical sets one by one
 How can you use the staging area to make sure you have one commit per logical change?
 bla bla
 
-
+blabla
